@@ -1,0 +1,42 @@
+Important Commands for the Git Bash
+
+git config
+git init -> create a new local repository/initializes a Git repository
+git remote add origin <pathwayOfTheCentralRepository> (ssh)
+
+git status -> shows the current state of a project
+git log -> shows all changes/if commit was saved
+git log --summary -> shows more infrmation (added/deleted files) 
+
+git clone -> get the files of a central repository, that is not yours
+
+git add <filename> -> add a file to the staging area
+git add . 
+git add *
+
+git commit -m "<messageToFollowTheChange" -> store the staged changes
+
+git pull origin master -> get the changed files (changed by others)
+git push origin master -> upload what I have changed
+git push -u origin master -> tells Git to remember the directory for the next time
+
+git checkout -b nb -> neuen branch anlegen und auf diesen wechseln (checkout=wechseln)
+git checkout <branchname> -> switch to branch called <branchname> (work there)
+git checkout master -> switch to master branch
+git checkout -- <target> -> change files back to the state of the last commit
+
+git branch <branchname> -> creates a branch called <branchname>
+git branch -d branch <branchname> -> deletes branch <branchname>
+
+git gc - garbage collector
+
+find . name "<filename>"
+
+git reset <filename> -> remove a file from the staging area
+
+git k -> open the graphical interface
+git remote all -> adds a remote repository (to push the local repository to the GitHub server)
+
+git diff -> overview of changes
+git diff HEAD -> diff of the most recent commit
+
