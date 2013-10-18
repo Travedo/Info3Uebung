@@ -1,5 +1,8 @@
 git init
-git log
-git push
+git log <-> git status
+
+git remote add origin (repositoryLink)
+git clone
+
 git pull
-miss muffin added a line
+git push
