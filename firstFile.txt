@@ -4,11 +4,10 @@ git log <-> git status
 git remote add origin (repositoryLink)
 git clone
 
-git pull
-git push
+git commit -m "..."
 
+git pull origin master
+git push origin master
 
-=======
-git pull
-miss muffin added a line
->>>>>>> 29249d74dcf667abe94d5a9e487eb97e4649c320
+git 
+
