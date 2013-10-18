@@ -1,4 +1,9 @@
 git init
-git log
-git push
+git log <-> git status
+
+git remote add origin (repositoryLink)
+git clone
+
 git pull
+git push
+
