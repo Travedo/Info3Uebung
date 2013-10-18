@@ -1,4 +1,4 @@
-Important Commands for the Git Bash
+Important Commands for the Git Bash:
 
 git config
 git init -> create a new local repository/initializes a Git repository
@@ -20,7 +20,7 @@ git pull origin master -> get the changed files (changed by others)
 git push origin master -> upload what I have changed
 git push -u origin master -> tells Git to remember the directory for the next time
 
-git checkout -b nb -> neuen branch anlegen und auf diesen wechseln (checkout=wechseln)
+git checkout -b nb -> create a new branch and switch to it
 git checkout <branchname> -> switch to branch called <branchname> (work there)
 git checkout master -> switch to master branch
 git checkout -- <target> -> change files back to the state of the last commit
@@ -29,8 +29,6 @@ git branch <branchname> -> creates a branch called <branchname>
 git branch -d branch <branchname> -> deletes branch <branchname>
 
 git gc - garbage collector
-
-find . name "<filename>"
 
 git reset <filename> -> remove a file from the staging area
 
