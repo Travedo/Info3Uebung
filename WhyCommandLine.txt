@@ -1,0 +1,5 @@
+Command Line
+
+As a software developer, you need to know the basics of the command line - preferably in linux flavor!
+
+You should at least be able to navigate the file system, look at directories, files and their contents, and start commands, at least your text editor, directly from there (which saves you the time of finding first your text editor and then the file again from some dreadful file open dialog).

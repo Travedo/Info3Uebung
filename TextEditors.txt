@@ -1,0 +1,6 @@
+Text Editor
+
+Good text editors are:
+	-Komodo Edit
+	-Sublime Text 2
+	-vi/vim

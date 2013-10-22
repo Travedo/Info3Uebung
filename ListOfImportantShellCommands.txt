@@ -1,0 +1,13 @@
+Shell Commands:
+
+cd - change current directory
+cd .. - go onoe directory up
+cd ~ - go to hme directory
+ls - list files
+pwd - show current woring directory
+rm - remove/delete files
+touch - create a file
+exit - exit the shell
+rmdir - delete directory(only if empty)
+rm -r <foldername> - delete a directory
+
